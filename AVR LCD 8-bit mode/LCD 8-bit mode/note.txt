@@ -1,0 +1,15 @@
+This is the basic lcd porgram to display "YO!" in a 16*2 lcd in 8-bit mode.
+
+Hardware used:
+  -->atmega32(1) 
+  -->16*2 LCD(1)
+  -->10k Potentiometer(1)
+  -->Usbasp(1)
+
+Software used:
+  -->Microstudio (v7.0)
+
+
+
+
+-->-->-->-->-->-->-->Thank you-->-->-->-->-->-->-->-->-->-->-->-->-->-->-->
